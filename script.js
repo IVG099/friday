@@ -1,1 +1,1 @@
-cosole.log("fsfs");
+console.log("fsfs");
